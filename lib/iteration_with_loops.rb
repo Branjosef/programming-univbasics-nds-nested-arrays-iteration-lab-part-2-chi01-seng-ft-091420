@@ -9,5 +9,4 @@ row_index = 0
     row_index += 1
   end
 array2
-
 end
